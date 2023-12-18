@@ -11,7 +11,7 @@ import NavBar from '../../components/navbar/NavBar.vue'
 					<img src="/src/assets/images/logo/logo.svg" alt="" />
 					<span>EasyLife</span>
 				</div>
-				<h2>WArn!</h2>
+				<h2>Warning!</h2>
 				<div class="rel">
 					<h1>РОЗЫГРЫШ</h1>
 					<img class="left-pic" src="/src/assets/images/leftPic.png" alt="" />
